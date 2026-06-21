@@ -1,0 +1,20 @@
+# Temporary Excel files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Local/private copies
+private/
+personal/
+*_personal.xlsx
+*_completed.xlsx
+*_filled.xlsx
